@@ -1,4 +1,4 @@
-Lunar Rover Mapping Robot.
+*Disclaimer: Source codes have been removed and documents are redacted for preventing plagiarism.*
 
 Video demonstration link: https://youtu.be/M5fhArJOS-I
 
